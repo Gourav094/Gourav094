@@ -15,6 +15,7 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **gouravgarg0203@gmail.com**
+- To know more about me -> <a href="https://drive.google.com/file/d/1KwQrd-W4jUB2kcKg8YWVDVvO917-YeMG/view?usp=sharing">resume</a>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
