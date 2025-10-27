@@ -5,6 +5,8 @@
   <i>Designing reliable backend services and intuitive frontend interfaces.</i>
 </p>
 
+![github banner](https://github.com/anuj-thakur-513/anuj-thakur-513/assets/82753410/c74e2f92-baf8-4c0f-a9a8-b92c550c3cb0)
+<!--
 ### 📛 My Badges
 <p align="center">
   <img alt="Holopin Badges" src="https://holopin.io/api/user/board?user=gourav094" />
@@ -13,6 +15,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gouravgarg094&label=Profile%20views&color=0e75b6&style=flat" alt="gouravgarg094" /> 
 </p>
+-->
 
 ---
 
