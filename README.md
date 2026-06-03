@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav Garg</h1>
 
 <p align="center">
-  <b>Full Stack Developer @ SAP • Backend Specialist </b><br/>
+  <b>Application Engineer @ SAP • Backend Specialist </b><br/>
   <i>Designing reliable backend services and intuitive frontend interfaces.</i>
 </p>
 
@@ -21,19 +21,20 @@
 
 ### 🧑‍🚀 About Me
 
-- 🚀 Full Stack Developer @ SAP, passionate about building scalable solutions
-- 💡 Exploring the intersection of AI, automation to make development smarter.  
-- 💬 I love contributing to projects that combine **AI + DevOps + Clean Code** principles.   
-- 💬 Always up for discussions, collaboration, and contribution.
+- 🚀 Application Engineer at SAP.
+- 💡 Exploring AI, automation, and scalable software systems.
+- 🛠️ Passionate about building, learning, and solving engineering problems.
+- 🎓 M.Tech, BITS Pilani (2026).
 
 ---
 
 ### 🛠️ Tech Stack
-- Backend: Node.js • Express.js • ABAP • Spring Boot • REST  
-- Frontend: React • Next.js • Angular • TailwindCSS • Vite  
-- Databases: MongoDB • MySQL • S/4HANA  
-- DevOps/Tools: Git • Jenkins • Docker • Postman • JWT • Kubernetes  
-- Other Interests: GenAI • System Design • Automation  
+- Backend: Node.js • Express.js • Spring Boot • REST APIs
+- Frontend: React • Next.js • Angular • Tailwind CSS • JavaScript 
+- Databases: MongoDB • MySQL  
+- DevOps/Tools: Git • Jenkins • Docker • Postman • Kubernetes • Kafka
+- SAP Technologies: • ABAP • SAP CAP • CDS • SAP BTP • Cloud Foundry • SAP S/4HANA 
+- AI: RAG, Agentic AI, LLM Integration  
 
 ---
 
@@ -46,9 +47,16 @@
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav094&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Gourav's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav094&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="180px" alt="Top Languages"/>
+<p align="Left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gourav094&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Gourav's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav094&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="180px" alt="Top Languages"/> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gourav094&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+
+   <!--
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gourav094&layout=compact&theme=tokyonight&hide_border=true" /> 
+   -->
+
+  
 </p>
 
 
