@@ -21,11 +21,11 @@
 
 ### 🧑‍🚀 About Me
 
-- 🚀 Application Engineer at SAP.
-- 💡 Exploring AI, automation, and scalable software systems.
-- 🛠️ Passionate about building, learning, and solving engineering problems.
-- 🎓 M.Tech, BITS Pilani (2026).
-
+- Work - Associate Application Engineer at SAP.
+- Exploring AI, automation, and scalable software systems.
+- Passionate about building, learning, and solving engineering problems.
+- M.Tech, BITS Pilani (2026).
+- Published 1 package on [npm](https://www.npmjs.com/package/@gourav094/secret-scan)
 ---
 
 ### 🛠️ Tech Stack
